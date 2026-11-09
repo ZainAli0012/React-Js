@@ -1,0 +1,1 @@
+export const QUOTES_API = 'https://dummyjson.com/quotes'
